@@ -1,2 +1,4 @@
 # matplotlib-tutorials
-This repository contains Jupyter notebooks explaining matplotlib fundamental concepts
+This repository contains tutorials for matplotlib library.
+
+Credits: Knowledge Shelf - https://www.youtube.com/knowledgeshelf
